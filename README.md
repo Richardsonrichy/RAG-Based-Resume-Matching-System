@@ -90,4 +90,4 @@ analysis.ipynb contains:
 
 ##  Conclusion
 Production-ready RAG pipeline for resume-job matching using vector search and hybrid ranking.
-EOF
+
