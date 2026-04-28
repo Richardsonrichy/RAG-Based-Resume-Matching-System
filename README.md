@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 #  RAG-Based Resume Matching System
 
 ##  Overview
