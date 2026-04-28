@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## ▶ Run
 
-# Step 1: (Optional)
+# Step 1: 
 python generate_resumes.py
 
 # Step 2:
